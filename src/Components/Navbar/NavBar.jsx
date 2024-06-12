@@ -4,7 +4,7 @@ const NavBar = () => {
   return (
    <div>
         <div>
-            
+            <img src="./public/Images/Jollibeelogo.webp" alt="" />
 
         </div>
         <div>
